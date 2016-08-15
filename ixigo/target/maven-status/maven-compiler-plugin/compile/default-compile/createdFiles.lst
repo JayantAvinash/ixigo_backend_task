@@ -1,0 +1,6 @@
+com/flights/dao/AirportDaoObject.class
+com/flights/beans/FlightSearch.class
+com/flights/beans/Airport.class
+com/flights/service/bridge/FlightDataServiceBridge.class
+com/flights/service/inf/FlightDataServiceInf.class
+com/flights/service/impl/FlightDataServiceImpl.class
